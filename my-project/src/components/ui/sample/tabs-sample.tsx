@@ -4,7 +4,7 @@ import {
   TabsTrigger,
   TabsContent,
 } from "@/components/ui/tabs";
-import { CardSample } from "@/components/ui/card-sample";
+import { CardSample } from "@/components/ui/sample/card-sample";
 
 export function TabsSample() {
   return (
